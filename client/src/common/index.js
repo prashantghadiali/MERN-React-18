@@ -1,5 +1,5 @@
 // const backendDomin = "http://localhost:8080"  // on dev
-const backendDomin = "https://mern-react-18-2.onrender.com"   //on prod
+const backendDomin = "https://mern-react-18-3.onrender.com"   //on prod
 
 const SummaryApi = {
     signUP : {
